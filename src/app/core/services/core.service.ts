@@ -13,7 +13,7 @@ export class CoreService {
   constructor(private http: HttpClient) {}
 
   getPosts() {
-    const url = `${this.url}${this.postUrl}`;
+    const url = `${this.url}${this.postUrl}?userId=1`;
     return this.http.get<any>(url);
   }
 

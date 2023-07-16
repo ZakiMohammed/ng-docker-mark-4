@@ -1,4 +1,4 @@
-# Brotli Enabled Dockerized Angular App | NgDocker - Mark 4
+# Brotli Dockerized Angular App | NgDocker - Mark 4
 
 Check out the CodeOmelet blog post for this project.
 
